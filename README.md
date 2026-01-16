@@ -79,17 +79,7 @@ uidai-hackathon-analysis/
 ├── api_data_aadhar_enrolment/      # Enrolment data (3 CSV files)
 ├── api_data_aadhar_demographic/    # Demographic update data (5 CSV files)
 │
-├── docs/                           # Documentation & Presentation Materials
-│   ├── README_DOCS.txt             # Guide to all documentation
-│   ├── QUICK_REFERENCE.txt         # Key facts and numbers
-│   ├── VISUALIZATION_GUIDE.txt     # Guide to all visualizations
-│   ├── ANALYSIS_REPORT.txt         # Complete detailed report
-│   ├── PRESENTATION_SUMMARY.txt    # Presentation guide
-│   ├── FINAL_PROJECT_SUMMARY.txt   # Project summary
-│   ├── PROJECT_COMPLETE.txt        # Success checklist
-│   ├── GIT_SETUP_GUIDE.txt         # GitHub upload guide
-│   ├── GITHUB_QUICK_START.txt      # Quick GitHub guide
-│   └── ADVANCED_ANALYSIS_GUIDE.txt # Advanced methods guide
+|
 │
 ├── trend_anomaly_analysis.py       # Basic analysis script
 ├── advanced_anomaly_detection.py   # Advanced analysis script
