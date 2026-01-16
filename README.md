@@ -168,28 +168,8 @@ uidai-hackathon-analysis/
 - **Time Period**: March 2025
 - **Data Categories**: Age groups (0-5, 5-17, 18+), Geographic (State, District, Pincode)
 
-## 📖 Documentation
 
-Comprehensive documentation is provided in the following files:
 
-- **QUICK_REFERENCE.txt** - Quick facts, numbers, and Q&A prep
-- **VISUALIZATION_GUIDE.txt** - Detailed guide to all 5 visualizations
-- **ANALYSIS_REPORT.txt** - Complete technical analysis report
-- **PRESENTATION_SUMMARY.txt** - Slide-by-slide presentation guide
-- **FINAL_PROJECT_SUMMARY.txt** - Complete project summary
-
-## 🎤 Presentation Guide
-
-### For 5-Minute Presentation
-Use: `anomaly_detection.png` + `advanced_risk_heatmap.png`
-
-### For 10-Minute Presentation
-Use: `trend_analysis.png` + `anomaly_detection.png` + `advanced_combo_chart.png`
-
-### For 15-Minute Presentation
-Use: All 5 visualizations
-
-See `PRESENTATION_SUMMARY.txt` for detailed presentation strategies.
 
 ## 🤝 Contributing
 
