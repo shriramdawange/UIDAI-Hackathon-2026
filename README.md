@@ -187,9 +187,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+Shriram Dawange 
+https://www.linkedin.com/in/shriramdawange
+
 
 ## 🙏 Acknowledgments
 
@@ -197,11 +197,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Data sources: Aadhaar enrolment and demographic update records
 - Python community for excellent data science libraries
 
-## 📞 Contact
 
-For questions or feedback, please open an issue or contact [your.email@example.com]
-
----
 
 **⭐ If you find this project useful, please consider giving it a star!**
 
